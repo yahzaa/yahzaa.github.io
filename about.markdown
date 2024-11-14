@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, I'm Chandrakant. I am an AWS certified DevOps Engineer. I have 12 years experience in software engineering and site reliability engineering.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My Certifications - 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- AWS Certified Security - Specialty. [View credential](https://www.credly.com/badges/5146c828-bad2-4c84-b004-89ba9c366f48/public_url)
+- AWS Certified DevOps Engineer - Professional [View credential](https://www.credly.com/badges/5af3bb59-60ae-409e-8b4c-40a9c6720728/public_url)
